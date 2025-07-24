@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
