@@ -34,7 +34,7 @@ function Home() {
 
     try {
 
-      const response = await axios.post("http://localhost:3000/api/v1/user/userdetails", {
+      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}/api/v1/user/userdetails`, {
         name,
         email,
         message
