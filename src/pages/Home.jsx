@@ -224,7 +224,7 @@ function Home() {
               style={{ fontFamily: 'Caprasimo, serif' }}
               className="mt-4 font-medium text-lg text-zinc-300 text-center"
             >
-              Irfan Ullah Mohmand Haq Batti Sultan Qadri
+              Irfan Ullah Mohmand
             </h3>
             <p className="text-center font-semibold text-zinc-400">
               MERN Stack Web Developer
